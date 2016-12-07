@@ -221,3 +221,11 @@ Type::build('datetime')
 if (Configure::read('debug')) {
     Plugin::load('DebugKit', ['bootstrap' => true]);
 }
+
+Plugin::load('BootstrapUI');
+
+Plugin::load('BootstrapUI');
+
+Plugin::load('BootstrapUI');
+
+Plugin::load('BootstrapUI');
